@@ -1,6 +1,7 @@
 #  Weather Recommendation App
 
 Une application complète qui recommande des produits en fonction de la météo d’une ville et d’une date choisie.
+![Aperçu de l'application](https://github.com/AmiineHAMMOUTENE/Weather-recommendations-API/blob/main/frontend/public/Screenshot%202025-06-18%20154908.png?raw=true)
 
 ---
 
