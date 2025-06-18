@@ -109,12 +109,6 @@ Accédez à : `http://localhost:5173`
 
 >  Le frontend appelle l’API sur `http://localhost:8000`. Pensez à gérer le CORS si nécessaire dans Symfony.
 
----
-
-##  Licence
-
-Projet réalisé dans le cadre d’un défi de développement.  
-Usage personnel ou éducatif uniquement.
 
 ---
 
