@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous d’avoir installé les logiciels suivants :
 Clonez le dépôt du projet sur votre machine locale avec Git :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-projet.git
+git clone https://github.com/AmiineHAMMOUTENE/Weather-recommendations-API
 cd votre-projet
 ```
 
